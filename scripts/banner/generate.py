@@ -33,8 +33,8 @@ TRAVELLER_COUNT = 900
 HOLD_PARTICLE_COUNT = 2_400
 SEED = 314159
 LOGO_SUFFIXES = {".png", ".webp"}
-LOGO_ALIASES = {"kube": "kubernetes"}
-PREFERRED_LOGO_ORDER = ("linux", "kubernetes")
+LOGO_ALIASES = {}
+PREFERRED_LOGO_ORDER = ("linux",)
 
 YAML_ROWS = [
     (0, "profile", ""),
