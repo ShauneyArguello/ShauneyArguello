@@ -13,11 +13,7 @@
 
 ## `$ whoami`
 
-```text
-shauney@github:~$ whoami
-usuario    ShauneyArguello
-ubicación  Costa Rica
-```
+<p align="center"><img src="assets/profile-vim.svg" width="840" alt="Perfil de ShauneyArguello en una ventana de Vim"></p>
 
 ## `$ ls repos/`
 
