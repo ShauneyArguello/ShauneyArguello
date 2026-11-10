@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" width="960" alt="ShauneyArguello · GitHub · Costa Rica">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.v9.svg">
+  <img src="assets/banner-light.v9.svg" width="960" alt="Perfil animado de ShauneyArguello en Vim">
 </picture>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;color=BF487A&amp;center=true&amp;vCenter=true&amp;width=480&amp;lines=Hola%2C+soy+Shauney;Bienvenido+a+mi+GitHub" alt="Hola, soy Shauney. Bienvenido a mi GitHub.">
@@ -13,7 +13,7 @@
 
 ## `$ whoami`
 
-<p align="center"><img src="assets/profile-vim.svg" width="840" alt="Perfil de ShauneyArguello en una ventana de Vim"></p>
+<p align="center"><img src="assets/whoami-citypop.svg" width="960" alt="Terminal city-pop de ShauneyArguello"></p>
 
 ## `$ ls repos/`
 
