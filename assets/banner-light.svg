@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 290" role="img" aria-labelledby="title">
+  <title id="title">ShauneyArguello · GitHub · Costa Rica</title>
+  <defs>
+    <linearGradient id="sun" x2="0" y2="1">
+      <stop stop-color="#ffce85"/>
+      <stop offset="1" stop-color="#ef70ae"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="290" rx="24" fill="#fff0f6"/>
+  <circle cx="763" cy="131" r="84" fill="url(#sun)"/>
+  <path d="M660 143H860 M660 158H860 M660 176H860 M660 197H860" stroke="#fff0f6" stroke-width="7"/>
+  <path d="M560 231L639 167 689 212 734 178 817 231 869 196 925 231Z" fill="#9e3466" opacity=".55"/>
+  <path d="M0 240H960M0 257H960M0 279H960" stroke="#9e3466" opacity=".28"/>
+  <g font-family="monospace">
+    <text x="58" y="83" fill="#9e3466" font-size="20">~/github</text>
+    <text x="54" y="150" fill="#34213e" font-weight="bold" font-size="48">ShauneyArguello</text>
+    <text x="58" y="191" fill="#9e3466" font-size="21">COSTA RICA</text>
+  </g>
+</svg>
